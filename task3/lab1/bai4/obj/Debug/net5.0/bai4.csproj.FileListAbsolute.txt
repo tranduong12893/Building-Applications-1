@@ -13,3 +13,4 @@ D:\Ky-2\C#\C#\lab1\bai4\obj\Debug\net5.0\bai4.dll
 D:\Ky-2\C#\C#\lab1\bai4\obj\Debug\net5.0\ref\bai4.dll
 D:\Ky-2\C#\C#\lab1\bai4\obj\Debug\net5.0\bai4.pdb
 D:\Ky-2\C#\C#\lab1\bai4\obj\Debug\net5.0\bai4.genruntimeconfig.cache
+D:\Ky-2\C#\C#\lab1\bai4\obj\Debug\net5.0\bai4.csproj.AssemblyReference.cache
