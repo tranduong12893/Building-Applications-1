@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.exe
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.deps.json
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.runtimeconfig.json
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.dll
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\ref\AnonTypes.dll
+D:\Ky-2\C#\C#\first_prg\AnonTypes\bin\Debug\net5.0\AnonTypes.pdb
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.AssemblyInfo.cs
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.dll
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\ref\AnonTypes.dll
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.pdb
+D:\Ky-2\C#\C#\first_prg\AnonTypes\obj\Debug\net5.0\AnonTypes.genruntimeconfig.cache

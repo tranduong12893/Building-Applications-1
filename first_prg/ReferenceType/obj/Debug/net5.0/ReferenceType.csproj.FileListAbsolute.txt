@@ -1,0 +1,16 @@
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+D:\Ky-2\C#\C#\first_prg\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.AssemblyReference.cache
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+D:\Ky-2\C#\C#\first_prg\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache

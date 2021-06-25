@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.exe
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.deps.json
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.runtimeconfig.json
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.dll
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\ref\bai1.dll
+D:\Ky-2\C#\C#\lab1\lab1\bin\Debug\net5.0\bai1.pdb
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.AssemblyInfo.cs
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.dll
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\ref\bai1.dll
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.pdb
+D:\Ky-2\C#\C#\lab1\lab1\obj\Debug\net5.0\bai1.genruntimeconfig.cache

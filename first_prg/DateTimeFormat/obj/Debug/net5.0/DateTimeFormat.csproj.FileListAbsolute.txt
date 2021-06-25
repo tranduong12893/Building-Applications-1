@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.exe
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.deps.json
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.json
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.dll
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\ref\DateTimeFormat.dll
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.pdb
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfo.cs
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.dll
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\ref\DateTimeFormat.dll
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.pdb
+D:\Ky-2\C#\C#\first_prg\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.genruntimeconfig.cache

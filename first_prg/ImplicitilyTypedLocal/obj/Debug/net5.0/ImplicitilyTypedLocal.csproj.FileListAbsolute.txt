@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.exe
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.deps.json
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.runtimeconfig.json
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.dll
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ref\ImplicitilyTypedLocal.dll
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.pdb
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.AssemblyInfo.cs
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.dll
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ref\ImplicitilyTypedLocal.dll
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.pdb
+D:\Ky-2\C#\C#\first_prg\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.genruntimeconfig.cache
