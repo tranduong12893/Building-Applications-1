@@ -7,7 +7,7 @@ namespace bai3
         static void Main(string[] args)
         {
             Console.WriteLine("Hay nhap 1 so bat ky tu 1->7:");
-            int number = int.Parse(Console.ReadLine());
+            int number = Console.Read();
             if( number == 1)
             {
                 Console.WriteLine("Hom nay la thu 2!");

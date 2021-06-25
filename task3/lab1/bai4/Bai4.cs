@@ -7,7 +7,7 @@ namespace bai4
         static void Main(string[] args)
         {
             Console.WriteLine("hay nhap 1 so:");
-            int n = int.Parse(Console.ReadLine());
+            int n = Console.Read();
             for(int i = 1; i<=9; i++)
             {
                 const string V = " = ";

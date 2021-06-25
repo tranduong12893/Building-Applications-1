@@ -7,9 +7,9 @@ namespace bai2
         static void Main(string[] args)
         {
 			Console.WriteLine("Nhap 3 so nguyen bat ky:");
-			int a = int.Parse(Console.ReadLine());
-			int b = int.Parse(Console.ReadLine());
-			int c = int.Parse(Console.ReadLine());
+			int a = Console.Read();
+			int b = Console.Read();
+			int c = Console.Read();
 			int max=0;
 			if (a >= b && a >= c)
 			{
