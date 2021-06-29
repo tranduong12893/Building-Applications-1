@@ -1,0 +1,16 @@
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.exe
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.deps.json
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.json
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.dll
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\ref\Destructor.dll
+D:\Ky-2\C#\C#\task 4\Destructor\bin\Debug\net5.0\Destructor.pdb
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.csproj.AssemblyReference.cache
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfo.cs
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.dll
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\ref\Destructor.dll
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.pdb
+D:\Ky-2\C#\C#\task 4\Destructor\obj\Debug\net5.0\Destructor.genruntimeconfig.cache
