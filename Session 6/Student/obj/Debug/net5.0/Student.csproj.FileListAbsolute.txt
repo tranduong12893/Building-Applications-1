@@ -1,0 +1,16 @@
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.exe
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.deps.json
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.runtimeconfig.json
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.dll
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\ref\Student.dll
+D:\Ky-2\C#\C#\Session 6\Student\bin\Debug\net5.0\Student.pdb
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.csproj.AssemblyReference.cache
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.AssemblyInfo.cs
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.dll
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\ref\Student.dll
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.pdb
+D:\Ky-2\C#\C#\Session 6\Student\obj\Debug\net5.0\Student.genruntimeconfig.cache

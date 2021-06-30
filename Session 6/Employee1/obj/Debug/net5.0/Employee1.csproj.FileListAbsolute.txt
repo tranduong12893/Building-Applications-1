@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.exe
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.deps.json
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.runtimeconfig.json
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.dll
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\ref\Employee1.dll
+D:\Ky-2\C#\C#\Session 6\Employee1\bin\Debug\net5.0\Employee1.pdb
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.AssemblyInfo.cs
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.dll
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\ref\Employee1.dll
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.pdb
+D:\Ky-2\C#\C#\Session 6\Employee1\obj\Debug\net5.0\Employee1.genruntimeconfig.cache
