@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.exe
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.deps.json
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.dll
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\ref\Employee.dll
+D:\Ky-2\C#\C#\Lab3\Employee\bin\Debug\net5.0\Employee.pdb
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.dll
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\ref\Employee.dll
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.pdb
+D:\Ky-2\C#\C#\Lab3\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache

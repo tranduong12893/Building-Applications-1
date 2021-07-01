@@ -1,0 +1,15 @@
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.exe
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.deps.json
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.runtimeconfig.json
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.dll
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\ref\Window.dll
+D:\Ky-2\C#\C#\Lab3\Window\bin\Debug\net5.0\Window.pdb
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.AssemblyInfo.cs
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.dll
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\ref\Window.dll
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.pdb
+D:\Ky-2\C#\C#\Lab3\Window\obj\Debug\net5.0\Window.genruntimeconfig.cache
