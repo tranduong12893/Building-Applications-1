@@ -1,0 +1,16 @@
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.exe
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.deps.json
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.runtimeconfig.json
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.runtimeconfig.dev.json
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.dll
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\ref\FinalWork.dll
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\bin\Debug\net5.0\FinalWork.pdb
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.AssemblyInfo.cs
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.dll
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\ref\FinalWork.dll
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.pdb
+C:\Users\Tran Duong\source\repos\Lab4\FinalWork\obj\Debug\net5.0\FinalWork.genruntimeconfig.cache
