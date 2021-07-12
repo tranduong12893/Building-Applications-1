@@ -1,0 +1,15 @@
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.AssemblyInfoInputs.cache
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.AssemblyInfo.cs
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.exe
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.deps.json
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.runtimeconfig.json
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.runtimeconfig.dev.json
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.dll
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\ref\Mod3_Lab2.dll
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\bin\Debug\net5.0\Mod3_Lab2.pdb
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.dll
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\ref\Mod3_Lab2.dll
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.pdb
+C:\Users\Tran Duong\source\repos\Mod3_Lab1\Mod3_Lab2\obj\Debug\net5.0\Mod3_Lab2.genruntimeconfig.cache
