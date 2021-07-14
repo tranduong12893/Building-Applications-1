@@ -1,0 +1,16 @@
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.AssemblyReference.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfoInputs.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfo.cs
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.exe
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.deps.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.dev.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.genruntimeconfig.cache

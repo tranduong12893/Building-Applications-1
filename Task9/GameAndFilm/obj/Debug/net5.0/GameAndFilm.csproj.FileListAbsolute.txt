@@ -1,0 +1,16 @@
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.exe
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.deps.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.runtimeconfig.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.runtimeconfig.dev.json
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\ref\GameAndFilm.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\bin\Debug\net5.0\GameAndFilm.pdb
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.csproj.AssemblyReference.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.AssemblyInfoInputs.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.AssemblyInfo.cs
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.csproj.CoreCompileInputs.cache
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\ref\GameAndFilm.dll
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.pdb
+C:\Users\Tran Duong\source\repos\IssuesWithNonGenericCollections\GameAndFilm\obj\Debug\net5.0\GameAndFilm.genruntimeconfig.cache
