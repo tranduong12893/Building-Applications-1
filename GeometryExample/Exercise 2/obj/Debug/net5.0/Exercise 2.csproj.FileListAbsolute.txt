@@ -1,0 +1,16 @@
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.exe
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.deps.json
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.runtimeconfig.json
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.dll
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\ref\Exercise 2.dll
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\bin\Debug\net5.0\Exercise 2.pdb
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.csproj.AssemblyReference.cache
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfo.cs
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.dll
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\ref\Exercise 2.dll
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.pdb
+D:\Ky-2\C#\C#\GeometryExample\Exercise 2\obj\Debug\net5.0\Exercise 2.genruntimeconfig.cache
