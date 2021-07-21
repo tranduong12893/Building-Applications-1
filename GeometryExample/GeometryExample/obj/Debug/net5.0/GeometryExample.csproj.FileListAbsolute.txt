@@ -1,0 +1,16 @@
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.AssemblyReference.cache
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfoInputs.cache
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfo.cs
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.CoreCompileInputs.cache
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.exe
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.deps.json
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.json
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.dev.json
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.dll
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\ref\GeometryExample.dll
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\bin\Debug\net5.0\GeometryExample.pdb
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.dll
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\ref\GeometryExample.dll
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.pdb
+D:\Ky-2\C#\C#\GeometryExample\GeometryExample\obj\Debug\net5.0\GeometryExample.genruntimeconfig.cache
